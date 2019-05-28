@@ -16,7 +16,6 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListAdapter;
@@ -84,9 +83,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        WebView browser = (WebView) findViewById(R.id.webview);
-        browser.loadUrl("http://jabolko.herokuapp.com");
-
 
         if((internet.isConnectedToNetwork(this))){
             File[] file_for_deletion = this.getFilesDir().listFiles();
