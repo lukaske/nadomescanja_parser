@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bit-scout:pdf-converter:1.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bit-scout/pdf-converter/1.0.2/7f9f01f332bf37e42493240238e35ad3233069b1/pdf-converter-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bit-scout/pdf-converter/1.0.2/c3dc2f7f40db53fafc02aad953c93a70f0de534e/pdf-converter-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
